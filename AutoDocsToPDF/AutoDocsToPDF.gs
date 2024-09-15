@@ -1,7 +1,6 @@
 function autoSaveToPDF() {
   // If you wanna change active documents into PDF then use this line: 'var doc = DocumentApp.getActiveDocument();'
   
-
   // else if you wanna change a specific documents then use this: 
   var docId = 'Your-google-docs-document-ID'; //you can find 'document Id' from the document url
   var doc = DocumentApp.openById(docId);
