@@ -1,6 +1,6 @@
 # Google Docs to PDF Auto-Save Script
 
-This file contains a Google Apps Script that automatically converts a Google Docs file to PDF and saves it to the same Google Drive folder. The script can be set to run on a periodic trigger, ensuring that the PDF version is always updated when changes are made to the Google Docs file.
+This folder contains a Google Apps Script that automatically converts a Google Docs file to PDF and saves it to the same Google Drive folder. The script can be set to run on a periodic trigger, ensuring that the PDF version is always updated when changes are made to the Google Docs file.
 
 ## Features
 
