@@ -29,7 +29,8 @@ Follow these steps to set up and run the auto-save Google Docs to PDF script:
 
 ### 3. Add the Script
 - Copy AutoDocsToPDF.gs file's script and paste it in the editor. Remove any code from the editor before pasting (if any).
-- Replace 'YOUR_DOCUMENT_ID' with your actual Google Docs file ID (you can get it from the URL). Look at the URL in the address bar of your browser. The URL will look something like this:
+- Replace ```'Your-google-docs-document-ID'``` in line **5** with your actual Google Docs document ID (you can get it from the URL).
+- Look at the URL in the address bar of your browser. The URL will look something like this:
 ```https://docs.google.com/document/d/1A2B3C4D5E6F7G8H9I/edit```
 In this example, the Document ID is the long string between /d/ and /edit. So, for the URL above, the Document ID is:
 ```1A2B3C4D5E6F7G8H9I```
