@@ -33,6 +33,7 @@ Follow these steps to set up and run the auto-save Google Docs to PDF script:
 ```https://docs.google.com/document/d/1A2B3C4D5E6F7G8H9I/edit```
 In this example, the Document ID is the long string between /d/ and /edit. So, for the URL above, the Document ID is:
 ```1A2B3C4D5E6F7G8H9I```
+- After replacing ```'Your-google-docs-document-ID'``` **Save** the project.
 
 ### 4. Set Up Triggers
 - To automatically save the document as a PDF, you can set a time-based trigger:
