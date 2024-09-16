@@ -7,7 +7,6 @@ Are you constantly editing your Google Docs, but frustrated by the need to repea
 I understand your pain! The need for updated PDFs can be a real hassle when you're dealing with live, dynamic documents (like your Resume) in Google Drive. But what if there was a tool that could **automatically update your PDFs** whenever you make changes in your Google Docs?
 
 ✨ **Here's the solution:**
-
 This folder contains a Google Apps Script that automatically converts a Google Docs file to PDF and saves it to the same Google Drive folder. The script can be set to run on a periodic trigger, ensuring that the PDF version is always updated when changes are made to the Google Docs file.
 
 ## Features
